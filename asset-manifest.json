@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saga-NFT/static/css/main.79093cee.chunk.css",
+    "main.js": "/Saga-NFT/static/js/main.51672a3b.chunk.js",
+    "main.js.map": "/Saga-NFT/static/js/main.51672a3b.chunk.js.map",
+    "runtime-main.js": "/Saga-NFT/static/js/runtime-main.cbf4b260.js",
+    "runtime-main.js.map": "/Saga-NFT/static/js/runtime-main.cbf4b260.js.map",
+    "static/js/2.111aca7d.chunk.js": "/Saga-NFT/static/js/2.111aca7d.chunk.js",
+    "static/js/2.111aca7d.chunk.js.map": "/Saga-NFT/static/js/2.111aca7d.chunk.js.map",
+    "static/js/3.925e9b46.chunk.js": "/Saga-NFT/static/js/3.925e9b46.chunk.js",
+    "static/js/3.925e9b46.chunk.js.map": "/Saga-NFT/static/js/3.925e9b46.chunk.js.map",
+    "index.html": "/Saga-NFT/index.html",
+    "static/css/main.79093cee.chunk.css.map": "/Saga-NFT/static/css/main.79093cee.chunk.css.map",
+    "static/js/2.111aca7d.chunk.js.LICENSE.txt": "/Saga-NFT/static/js/2.111aca7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf4b260.js",
+    "static/js/2.111aca7d.chunk.js",
+    "static/css/main.79093cee.chunk.css",
+    "static/js/main.51672a3b.chunk.js"
+  ]
+}
